@@ -1,15 +1,29 @@
 .box0{
     background-color: beige;
-    margin: 50px 500px;
-    padding: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    max-width: 50%;
+    min-width: 200px;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 50px;
+}
+
+h1 {
+    padding: 0;
+    margin: 0;
 }
 
 .box{
     background-color: beige;
-    margin: 50px 500px;
-    padding: 30px;
+    max-width: 50%;
+    min-width: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    font-size: 25px;
+    padding: 50px;
+    margin-top: 20vh;
 }
 
 .btn{
@@ -23,13 +37,6 @@
     color: white;
 }
 
-.box3{
-    background-color: rgb(241, 166, 201);
-    margin: 250px 500px;
-    padding: 50px;
-    font-size: 40px;
-    margin-bottom: 50px;
-}
 
 body{
     text-align: center;

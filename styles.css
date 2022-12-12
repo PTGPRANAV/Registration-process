@@ -1,0 +1,39 @@
+.box0{
+    background-color: beige;
+    margin: 50px 500px;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box{
+    background-color: beige;
+    margin: 50px 500px;
+    padding: 30px;
+}
+
+.btn{
+    padding: 10px 24px;
+    font-size: 12px;
+    border-radius: 8px;
+}
+
+.btn:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+.box3{
+    background-color: rgb(241, 166, 201);
+    margin: 250px 500px;
+    padding: 50px;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+body{
+    text-align: center;
+}
+.btn2{
+    margin-top: 10px;
+}
